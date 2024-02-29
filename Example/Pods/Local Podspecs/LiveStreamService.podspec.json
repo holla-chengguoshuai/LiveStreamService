@@ -1,0 +1,33 @@
+{
+  "name": "LiveStreamService",
+  "version": "0.1.0",
+  "summary": "A short description of LiveStreamService.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/guoshuai.cheng@holla.world/LiveStreamService",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "guoshuai.cheng@holla.world": "guoshuai.cheng@holla.world"
+  },
+  "source": {
+    "git": "https://github.com/guoshuai.cheng@holla.world/LiveStreamService.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "source_files": "LiveStreamService/Classes/**/*",
+  "dependencies": {
+    "AgoraRtcEngine_Special_iOS": [
+      "4.1.1.9"
+    ],
+    "Alamofire": [
+
+    ],
+    "DeviceKit": [
+
+    ]
+  }
+}

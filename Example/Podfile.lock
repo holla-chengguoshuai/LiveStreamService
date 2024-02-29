@@ -1,0 +1,31 @@
+PODS:
+  - AgoraRtcEngine_Special_iOS (4.1.1.9)
+  - Alamofire (5.8.1)
+  - DeviceKit (5.2.2)
+  - LiveStreamService (0.1.0):
+    - AgoraRtcEngine_Special_iOS (= 4.1.1.9)
+    - Alamofire
+    - DeviceKit
+
+DEPENDENCIES:
+  - LiveStreamService (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - AgoraRtcEngine_Special_iOS
+    - Alamofire
+    - DeviceKit
+
+EXTERNAL SOURCES:
+  LiveStreamService:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AgoraRtcEngine_Special_iOS: db2ca67d89c87614e1872e7209506da6a2648720
+  Alamofire: 3ca42e259043ee0dc5c0cdd76c4bc568b8e42af7
+  DeviceKit: e36aaf2a0d142ef0b4fac2007649a4414af234be
+  LiveStreamService: b7034431232d7bab989dc5fcbe1d870e1105e38e
+
+PODFILE CHECKSUM: 37b96e53e5972f4d436bfbe43705d658c4c7f2ff
+
+COCOAPODS: 1.15.2
