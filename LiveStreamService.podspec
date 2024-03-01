@@ -41,5 +41,5 @@ TODO: Add long description of the pod here.
   s.dependency 'AgoraRtcEngine_Special_iOS', '4.1.1.9'
   s.dependency 'Alamofire'
   s.dependency 'DeviceKit'
-  
+
 end
